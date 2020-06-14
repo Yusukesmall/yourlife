@@ -7,7 +7,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    height: 800px;
+    
 }
 .title h1{
     font-size: 200px;
@@ -23,26 +23,25 @@ body{
 }
 .title h2{
    font-size: 35px; 
-   
+   margin-bottom: 300px;
 }
-.contents{
-    margin-bottom: 100px;
-}
+
 .content p{
-    margin-right: 21px;
-    float: left;
-    font-size: 35px;
+   text-align: center;
+    font-size: 40px;
     background-color: black;
-    
+    width: 100%;
     color: #fff;
     opacity: 0.7;
     padding: 50px;
+    
 }
 
 .facebook {
+    width: 100%;
     font-size: 40px;
     text-align: center;
-    margin-top: 400px;
+    margin-top: 200px;
     background-color: blanchedalmond;
 }
 .btn {
