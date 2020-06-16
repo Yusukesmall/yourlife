@@ -57,6 +57,9 @@ body{
 .btn:hover{
     color: rgb(250, 3, 3);
 }
+.ad{
+    font-size: 30px;
+}
 .ad:hover{
     color: rgb(250, 3, 3);
 }
