@@ -5,6 +5,9 @@
         text-align: center;
        
     }
+    header{
+        height: 35px;
+    }
     .title h1{
         font-size: 100px;
         width: 100%;
@@ -33,5 +36,8 @@
  
  .facebook p{
      font-size: 30px;
+ }
+ .office{
+     font-size: 25px;
  }
 }
