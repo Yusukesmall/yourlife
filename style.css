@@ -7,7 +7,45 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    
+}
+header{
+    background-color:white;
+    opacity: 0.9;
+    height:60px;
+    width: 100%;
+    position:fixed;
+    top:0;
+    z-index:10;
+}
+.main{
+    width:100%;
+}
+
+
+.top h1{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    opacity: 0.9;
+    height: 100px;
+    width: 100%;
+    margin-top: 100px;
+}
+.conpany{
+  text-align: center;
+  padding: 30px;
+}
+
+.conpany a{
+    font-size: 30px;
+    color: cornsilk;
+}
+.office:hover{
+    color: rgb(250, 3, 3);
 }
 .title h1{
     font-size: 200px;
